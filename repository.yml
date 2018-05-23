@@ -1,0 +1,7 @@
+reviewers:
+  - nazrhom
+maintainers:
+  - nazrhom
+contract:
+  a: 1
+  b: "./path-to-file"
