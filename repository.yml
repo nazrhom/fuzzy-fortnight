@@ -11,5 +11,5 @@ contract:
   aliases: []
   tags: []
   data:
-    a: 1
-    b: "./path-to-file"
+    test: 1
+    path: "./path-to-file"
