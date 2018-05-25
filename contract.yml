@@ -5,5 +5,5 @@ name: "fuzzy fortnight"
 aliases: []
 tags: []
 data:
-  test: 2
+  test: "bork"
   path: "./path-to-file"
