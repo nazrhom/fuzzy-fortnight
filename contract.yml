@@ -1,0 +1,10 @@
+slug: "fuzzy-fortnight"
+type: "meta-test"
+version: "1"
+componentVersion: "1.0.0"
+name: "fuzzy fortnight"
+aliases: []
+tags: []
+data:
+  test: 2
+  path: "./path-to-file"
